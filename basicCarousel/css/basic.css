@@ -1,0 +1,23 @@
+.wh100{
+    width: 100%;
+    height: 100%;
+}
+.wh80{
+    width: 80%;
+    height: 80%;
+}
+.posit0-0-0-0{
+    position:absolute;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
+.posit10-10-10-10{
+    position:absolute;
+    top: 10vh;
+    right: 10vw;
+    left: 10vw;
+    bottom: 10vh;
+}
+
